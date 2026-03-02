@@ -13,10 +13,10 @@ body {
 .link {
     position: relative;
     background-color: #161B22;
-    width: 320px;
+    width: 435px;
     height: 35px;
     border-radius: 15px;
-    left: 1450px;
+    left: 1350px;
 }
 
 a {
@@ -24,22 +24,31 @@ a {
     text-decoration: none;
 }
 
-.projects {
+.about-me {
     position: relative;
-    left: 30px;
     top: 7.5px;
+    left: 20px;
 }
 
 .skills {
     position: relative;
-    left: 82.5px;
     top: 7.5px;
+    left: 170px;
 }
 
-.about-me {
+.projects {
     position: relative;
-    left: 130px;
     top: 7.5px;
+    left: 310px;
+}
+
+.btn-theme {
+    position: relative;
+    border: none;
+    background-color: #161B22;
+    cursor: pointer;
+    top: 7.5px;
+    left: 25px;
 }
 
 .vanya {
