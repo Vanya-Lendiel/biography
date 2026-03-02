@@ -107,7 +107,15 @@ a {
     font-size: 30px;
 }
 
-
+.poloska {
+    position: relative;
+    background-color: #161B22;
+    top: 125px;
+    left: 191px;
+    width: 1500px;
+    height: 5px;
+    border-radius: 15px;
+}
 
 @media (max-width: 768px) {
   html, body {
