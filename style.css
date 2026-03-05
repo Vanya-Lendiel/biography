@@ -13,7 +13,7 @@ body {
 .link {
     position: relative;
     background-color: #161B22;
-    width: 435px;
+    width: 465px;
     height: 35px;
     border-radius: 15px;
     left: 1350px;
@@ -40,6 +40,16 @@ a {
     position: relative;
     top: 7.5px;
     left: 310px;
+}
+
+.language {
+    position: relative;
+    left: 60px;
+    top: 7.5px;
+    background-color: #161B22;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
 }
 
 .btn-theme {
@@ -124,6 +134,13 @@ a {
     width: 1500px;
     height: 5px;
     border-radius: 15px;
+}
+
+.skill-h1 {
+    position: relative;
+    color: #FFFFFF;
+    left: 47%;
+    top: 170px;
 }
 
 @media (max-width: 768px) {
