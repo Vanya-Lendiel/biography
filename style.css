@@ -139,8 +139,14 @@ a {
 .skill-h1 {
     position: relative;
     color: #FFFFFF;
-    left: 47%;
+    left: 47.1%;
     top: 170px;
+}
+
+.skill-img {
+    position: relative;
+    top: 200px;
+    left: 850px;
 }
 
 @media (max-width: 768px) {
