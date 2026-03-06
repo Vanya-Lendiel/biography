@@ -149,6 +149,14 @@ a {
     left: 850px;
 }
 
+.languages {
+    position: relative;
+    top: 100px;
+    left: 845px;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
 @media (max-width: 768px) {
   html, body {
     overflow-x: hidden;
