@@ -157,6 +157,20 @@ a {
     color: #FFFFFF;
 }
 
+.editors-img {
+    position: relative;
+    top: 210px;
+    left: 880px;
+}
+
+.editors-h1 {
+    position: relative;
+    color: #FFFFFF; 
+    top: 115px; 
+    left: 855px;
+    font-size: 15px;
+}
+
 @media (max-width: 768px) {
   html, body {
     overflow-x: hidden;
