@@ -1,6 +1,7 @@
 body {
     background-color: #0A0A0F;
     overflow-x: hidden;
+    transition: 0.3s;
 }
 
 .vanya {
