@@ -171,6 +171,14 @@ a {
     font-size: 15px;
 }
 
+.contact-img {
+    position: relative;
+    top: 220px;
+    left: 910px;
+}
+
+
+
 @media (max-width: 768px) {
   html, body {
     overflow-x: hidden;
