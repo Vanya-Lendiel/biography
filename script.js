@@ -4,9 +4,8 @@ btn.addEventListener("click", function () {
     document.body.style.background = "#181717";
 });
 
+const btnx = document.getElementById("btnx")
 
-const btnnew = document.getElementById("btnnew");
-
-btn.addEventListener("click", function () {
+btnx.addEventListener("click", function () {
     document.body.style.background = "#0A0A0F";
-});
+})
