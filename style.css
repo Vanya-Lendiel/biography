@@ -185,6 +185,16 @@ a {
     left: 895px;
 }
 
+.poloska-again {
+    position: relative;
+    background-color: #161B22;
+    top: 235px;
+    left: 231px;
+    width: 1400px;
+    height: 5px;
+    border-radius: 15px;
+}
+
 @media (max-width: 768px) {
   html, body {
     overflow-x: hidden;
