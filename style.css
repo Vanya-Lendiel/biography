@@ -177,7 +177,13 @@ a {
     left: 910px;
 }
 
-
+.contact-h1 {
+    position: relative;
+    color: #FFFFFF;
+    font-size: 15px;
+    top: 125px;
+    left: 895px;
+}
 
 @media (max-width: 768px) {
   html, body {
