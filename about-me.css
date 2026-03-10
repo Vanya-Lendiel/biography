@@ -89,5 +89,60 @@ a {
     position: relative;
     color: #FFFFFF;
     top: -50px;
-    left: 725px;
+    left: 730px;
+}
+
+.name {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 641.5px;
+}
+
+.from {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 475px;
+}
+
+.love {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 555px;
+}
+
+.years {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 12.5px;
+}
+
+.goal {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 20px;
+}
+
+.forever-young {
+    position: relative;
+    color: #FFFFFF;
+    opacity: 3%;
+    top: -50px;
+    left: 690px;
+}
+
+.btn-home {
+    position: relative;
+    background-color: greenyellow;
+    border: none;
+    width: 100px;
+    height: 35px;
+    top: -55px;
+    left: 715px;
+    cursor: pointer;
+    border-radius: 15px;
 }
