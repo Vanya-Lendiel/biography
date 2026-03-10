@@ -1,1 +1,93 @@
+body {
+    background-color: #0A0A0F;
+    overflow-x: hidden;
+    transition: 0.3s;
+}
 
+.vanya {
+    position: relative;
+    color: #FFFFFF;
+    left: 150px;
+    top: 55px;
+}
+
+.link {
+    position: relative;
+    background-color: #161B22;
+    width: 415px;
+    height: 35px;
+    border-radius: 15px;
+    left: 1350px;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.about-me {
+    position: relative;
+    top: 7.5px;
+    left: 100px;
+}
+
+.skills {
+    position: relative;
+    top: 7.5px;
+    left: 265px;
+}
+
+.home {
+    position: relative;
+    top: 7.5px;
+    left: 125px;
+}
+
+.btn-theme {
+    position: relative;
+    border: none;
+    background-color: #161B22;
+    cursor: pointer;
+    top: 7.5px;
+    left: 35px;
+}
+
+.btn-new {
+    position: relative;
+    border: none;
+    background-color: #161B22;
+    cursor: pointer;
+    top: 6px;
+    left: 80px;
+}
+
+.vanya {
+    position: relative;
+    color: #FFFFFF;
+    left: 150px;
+    top: 55px;
+}
+
+.div-about {
+    position: relative;
+    background-color: #161B22;
+    top: 115px;
+    left: 10%;
+    width: 1500px;
+    height: 450px;
+    border-radius: 15px;
+}
+
+.about {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 695px;
+}
+
+.hello {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 725px;
+}
