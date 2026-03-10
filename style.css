@@ -189,6 +189,12 @@ a {
     border-radius: 15px;
 }
 
+.midnight {
+    position: relative;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
 @media (max-width: 768px) {
   html, body {
     overflow-x: hidden;
