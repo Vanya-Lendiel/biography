@@ -31,7 +31,8 @@ a:hover {
 }
 
 a:active {
-    transition: ;
+    transition: 0.3s;
+    color: #FFFFFF;
 }
 
 .about-me {
