@@ -25,6 +25,15 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    transition: 0.3s;
+    color: grey;
+}
+
+a:active {
+    transition: ;
+}
+
 .about-me {
     position: relative;
     top: 7.5px;
@@ -97,14 +106,14 @@ a {
     position: relative;
     color: #FFFFFF;
     top: 10px;
-    left: 352.5px;
+    left: 365px;
 }
 
 .i-love {
     position: relative;
     color: #FFFFFF;
     top: 10px;
-    left: 440px;
+    left: 455px;
 }
 
 .forever-young {
