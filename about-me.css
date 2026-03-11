@@ -25,6 +25,17 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    transition: 0.3s;
+    color: grey;
+}
+
+a:active {
+
+    transition: 0.3s;
+    color: #FFFFFF;
+}
+
 .about-me {
     position: relative;
     top: 7.5px;
