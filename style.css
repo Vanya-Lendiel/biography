@@ -9,7 +9,7 @@ body {
     color: #FFFFFF;
     left: 150px;
     top: 55px;
-}ы
+}
 
 .link {
     position: relative;
@@ -31,6 +31,7 @@ a:hover {
 }
 
 a:active {
+
     transition: 0.3s;
     color: #FFFFFF;
 }
@@ -122,7 +123,7 @@ a:active {
     color: #FFFFFF;
     opacity: 3%;
     top: 5px;
-    left: 670px;
+    left: 692.5px;
 }
 
 .h1-about {
@@ -143,20 +144,20 @@ a:active {
 .skill-h1 {
     position: relative;
     color: #FFFFFF;
-    left: 47.1%;
+    left: 49%;
     top: 170px;
 }
 
 .skill-img {
     position: relative;
     top: 200px;
-    left: 850px;
+    left: 885px;
 }
 
 .languages {
     position: relative;
     top: 100px;
-    left: 845px;
+    left: 881.5px;
     font-size: 15px;
     color: #FFFFFF;
 }
@@ -164,14 +165,14 @@ a:active {
 .editors-img {
     position: relative;
     top: 210px;
-    left: 880px;
+    left: 915px;
 }
 
 .editors-h1 {
     position: relative;
     color: #FFFFFF; 
     top: 115px; 
-    left: 855px;
+    left: 890px;
     font-size: 15px;
 }
 
