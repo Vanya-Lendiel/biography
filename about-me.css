@@ -1,33 +1,160 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biography</title>
-    <link rel="stylesheet" href="about-me.css">
-</head>
-<body>
-    <h1 class="vanya">#vanya</h1>
+body {
+    background-color: #0A0A0F;
+    overflow-x: hidden;
+    transition: 0.3s;
+}
 
-    <div class="link">
-        <button id="btn" class="btn-theme">🌕</button>
-        <button id="btnx" class="btn-new">🌙</button>
-        <a href="skills.html" class="skills">Skills</a>
-        <a href="index.html" class="home">Home</a>
-    </div>
+.vanya {
+    position: relative;
+    color: #FFFFFF;
+    left: 150px;
+    top: 55px;
+}
 
-    <div class="div-about">
-        <h1 class="about">About me</h1>
-        <h1 class="hello">Hello</h1>
-        <h1 class="name">My name is Vanya.</h1>
-        <h1 class="from">I am from Ukraine from the city of Uzhgorod.</h1>
-        <h1 class="love">I love programming various sites!</h1>
-        <h1 class="years">I am 13 years old, I have been taking courses since I was 10 and have completed a frontend developer course</h1>
-        <h1 class="goal">My goal is to become at least a middle level frontend developer and be an excellent person in programming</h1>
-        <h2 class="forever-young">forever young</h2>
-        <button class="btn-home"><a href="index.html">HOME</a></button>
-    </div>
+.link {
+    position: relative;
+    background-color: #161B22;
+    width: 415px;
+    height: 35px;
+    border-radius: 15px;
+    left: 1350px;
+}
 
-    <script src="about-me.js"></script>
-</body>
-</html>
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover {
+    transition: 0.3s;
+    color: grey;
+}
+
+a:active {
+
+    transition: 0.3s;
+    color: #FFFFFF;
+}
+
+.about-me {
+    position: relative;
+    top: 7.5px;
+    left: 100px;
+}
+
+.skills {
+    position: relative;
+    top: 7.5px;
+    left: 265px;
+}
+
+.home {
+    position: relative;
+    top: 7.5px;
+    left: 125px;
+}
+
+.btn-theme {
+    position: relative;
+    border: none;
+    background-color: #161B22;
+    cursor: pointer;
+    top: 7.5px;
+    left: 35px;
+}
+
+.btn-new {
+    position: relative;
+    border: none;
+    background-color: #161B22;
+    cursor: pointer;
+    top: 6px;
+    left: 80px;
+}
+
+.vanya {
+    position: relative;
+    color: #FFFFFF;
+    left: 150px;
+    top: 55px;
+}
+
+.div-about {
+    position: relative;
+    background-color: #161B22;
+    top: 115px;
+    left: 10.5%;
+    width: 1500px;
+    height: 450px;
+    border-radius: 15px;
+}
+
+.about {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 695px;
+}
+
+.hello {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 730px;
+}
+
+.name {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 641.5px;
+}
+
+.from {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 475px;
+}
+
+.love {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 555px;
+}
+
+.years {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 12.5px;
+}
+
+.goal {
+    position: relative;
+    color: #FFFFFF;
+    top: -50px;
+    left: 20px;
+}
+
+.forever-young {
+    position: relative;
+    color: #FFFFFF;
+    opacity: 3%;
+    top: -50px;
+    left: 690px;
+}
+
+.btn-home {
+    position: relative;
+    background-color: greenyellow;
+    border: none;
+    width: 100px;
+    height: 35px;
+    top: -55px;
+    left: 715px;
+    cursor: pointer;
+    border-radius: 15px;
+    font-size: 20px;
+}
