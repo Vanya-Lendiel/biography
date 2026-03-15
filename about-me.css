@@ -85,7 +85,7 @@ a:active {
     top: 115px;
     left: 10.5%;
     width: 1500px;
-    height: 450px;
+    height: 400px;
     border-radius: 15px;
 }
 
@@ -152,8 +152,8 @@ a:active {
     border: none;
     width: 100px;
     height: 35px;
-    top: 250px;
-    left: 715px;
+    top: 200px;
+    left: 912.5px;
     cursor: pointer;
     border-radius: 15px;
     font-size: 20px;
@@ -162,7 +162,7 @@ a:active {
 .poloska {
     position: relative;
     background-color: #161B22;
-    top: 175px;
+    top: 125px;
     left: 250px;
     width: 1400px;
     height: 5px;
