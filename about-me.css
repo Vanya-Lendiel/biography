@@ -148,11 +148,11 @@ a:active {
 
 .btn-home {
     position: relative;
-    background-color: greenyellow;
+    background-color: #161B22;
     border: none;
     width: 100px;
     height: 35px;
-    top: 200px;
+    top: 210px;
     left: 912.5px;
     cursor: pointer;
     border-radius: 15px;
