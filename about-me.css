@@ -152,9 +152,19 @@ a:active {
     border: none;
     width: 100px;
     height: 35px;
-    top: -55px;
+    top: 250px;
     left: 715px;
     cursor: pointer;
     border-radius: 15px;
     font-size: 20px;
+}
+
+.poloska {
+    position: relative;
+    background-color: #161B22;
+    top: 175px;
+    left: 250px;
+    width: 1400px;
+    height: 5px;
+    border-radius: 15px;
 }
