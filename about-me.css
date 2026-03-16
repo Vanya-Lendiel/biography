@@ -31,7 +31,6 @@ a:hover {
 }
 
 a:active {
-
     transition: 0.3s;
     color: #FFFFFF;
 }
