@@ -96,13 +96,13 @@ a:active {
 
 .skill-img {
     position: relative;
-    top: 100px;
+    top: 85px;
     left: 885px;
 }
 
 .languages {
     position: relative;
-    top: 5px;
+    top: -15px;
     left: 884px;
     font-size: 15px;
     color: #FFFFFF;
@@ -117,7 +117,7 @@ a:active {
 .editors-h1 {
     position: relative;
     color: #FFFFFF; 
-    top: 115px; 
+    top: 0px; 
     left: 890px;
     font-size: 15px;
 }
