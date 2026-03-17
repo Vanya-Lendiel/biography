@@ -31,6 +31,7 @@ a:hover {
 }
 
 a:active {
+
     transition: 0.3s;
     color: #FFFFFF;
 }
@@ -45,12 +46,6 @@ a:active {
     position: relative;
     top: 7.5px;
     left: 265px;
-}
-
-.home {
-    position: relative;
-    top: 7.5px;
-    left: 125px;
 }
 
 .btn-theme {
@@ -71,25 +66,148 @@ a:active {
     left: 80px;
 }
 
-.btn-home {
+.vanya {
+    position: relative;
+    color: #FFFFFF;
+    left: 150px;
+    top: 55px;
+}
+
+.about {
+    position: relative;
+    color: #FFFFFF;
+    left: 47%;
+    top: 55px;
+}
+
+.div-about {
     position: relative;
     background-color: #161B22;
-    border: none;
-    width: 100px;
-    height: 35px;
-    top: 210px;
-    left: 912.5px;
-    cursor: pointer;
+    top: 50px;
+    left: 10%;
+    width: 1500px;
+    height: 280px;
     border-radius: 15px;
-    font-size: 20px;
+}
+
+.hi {
+    position: relative;
+    color: #FFFFFF;
+    top: 10px;
+    left: 743.5px;
+}
+
+.my-name {
+    position: relative;
+    color: #FFFFFF;
+    top: 10px;
+    left: 530px;
+}
+
+.job {
+    position: relative;
+    color: #FFFFFF;
+    top: 10px;
+    left: 365px;
+}
+
+.i-love {
+    position: relative;
+    color: #FFFFFF;
+    top: 10px;
+    left: 455px;
+}
+
+.forever-young {
+    position: relative;
+    color: #FFFFFF;
+    opacity: 3%;
+    top: 5px;
+    left: 692.5px;
+}
+
+.h1-about {
+    color: #FFFFFF;
+    font-size: 30px;
 }
 
 .poloska {
     position: relative;
     background-color: #161B22;
     top: 125px;
-    left: 250px;
+    left: 191px;
+    width: 1500px;
+    height: 5px;
+    border-radius: 15px;
+}
+
+.skill-h1 {
+    position: relative;
+    color: #FFFFFF;
+    left: 49%;
+    top: 170px;
+}
+
+.skill-img {
+    position: relative;
+    top: 200px;
+    left: 885px;
+}
+
+.languages {
+    position: relative;
+    top: 100px;
+    left: 881.5px;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.editors-img {
+    position: relative;
+    top: 210px;
+    left: 915px;
+}
+
+.editors-h1 {
+    position: relative;
+    color: #FFFFFF; 
+    top: 115px; 
+    left: 890px;
+    font-size: 15px;
+}
+
+.contact-img {
+    position: relative;
+    top: 220px;
+    left: 942.5px;
+}
+
+.contact-h1 {
+    position: relative;
+    color: #FFFFFF;
+    font-size: 15px;
+    top: 125px;
+    left: 930px;
+}
+
+.poloska-again {
+    position: relative;
+    background-color: #161B22;
+    top: 235px;
+    left: 231px;
     width: 1400px;
     height: 5px;
     border-radius: 15px;
+}
+
+@media (max-width: 768px) {
+  html, body {
+    overflow-x: hidden;
+  }
+
+  .vanya {
+    position: relative;
+    top: 1px;
+    left: 5px;
+  }
 }
