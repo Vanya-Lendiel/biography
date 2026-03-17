@@ -77,7 +77,7 @@ a:active {
     border: none;
     width: 100px;
     height: 35px;
-    top: 210px;
+    top: 750px;
     left: 912.5px;
     cursor: pointer;
     border-radius: 15px;
@@ -92,4 +92,53 @@ a:active {
     width: 1400px;
     height: 5px;
     border-radius: 15px;
+}
+
+.skill-img {
+    position: relative;
+    top: 100px;
+    left: 885px;
+}
+
+.languages {
+    position: relative;
+    top: 5px;
+    left: 884px;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.editors-img {
+    position: relative;
+    top: 210px;
+    left: 915px;
+}
+
+.editors-h1 {
+    position: relative;
+    color: #FFFFFF; 
+    top: 115px; 
+    left: 890px;
+    font-size: 15px;
+}
+
+.contact-img {
+    position: relative;
+    top: 220px;
+    left: 942.5px;
+}
+
+.contact-h1 {
+    position: relative;
+    color: #FFFFFF;
+    font-size: 15px;
+    top: 100px;
+    left: 930px;
+}
+
+.skill-h1 {
+    position: relative;
+    color: #FFFFFF;
+    left: 49%;
+    top: 50px;
 }
