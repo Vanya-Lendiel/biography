@@ -85,7 +85,7 @@ a:active {
     top: 50px;
     left: 10%;
     width: 1500px;
-    height: 280px;
+    height: 285px;
     border-radius: 15px;
 }
 
@@ -117,12 +117,16 @@ a:active {
     left: 455px;
 }
 
-.forever-young {
+.btn-more {
     position: relative;
-    color: #FFFFFF;
-    opacity: 3%;
     top: 5px;
-    left: 692.5px;
+    left: 720px;
+    border: none;
+    background-color: #0A0A0F;
+    color: #FFFFFF;
+    width: 100px;
+    height: 35px;
+    border-radius: 15px;
 }
 
 .h1-about {
