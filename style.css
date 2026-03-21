@@ -12,7 +12,7 @@ body {
 }
 
 .link {
-    position: relative;
+    position: fixed;
     background-color: #161B22;
     width: 415px;
     height: 35px;
