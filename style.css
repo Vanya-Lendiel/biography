@@ -206,12 +206,18 @@ a:active {
 
 @media (max-width: 768px) {
   html, body {
-    overflow-x: hidden;
+    
   }
 
   .vanya {
     position: relative;
     top: 1px;
     left: 5px;
+  }
+
+  .btn-new {
+    position: relative;
+    top: -4px;
+    left: -1100px;
   }
 }
