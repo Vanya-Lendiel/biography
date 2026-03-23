@@ -142,3 +142,14 @@ a:active {
     left: 49%;
     top: 50px;
 }
+
+.div-vanya {
+    top: -410px;
+    left: 135px;
+    position: relative;
+    opacity: 50%;
+    background-color: #161B22;
+    width: 125px;
+    height: 50px;
+    border-radius: 15px;
+}
