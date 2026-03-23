@@ -212,6 +212,7 @@ a:active {
     background-color: #161B22;
     width: 125px;
     height: 50px;
+    border-radius: 15px;
 }
 
 @media (max-width: 768px) {
