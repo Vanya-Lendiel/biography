@@ -208,6 +208,7 @@ a:active {
     top: -415px;
     left: 75px;
     position: relative;
+    opacity: 50%;
     background-color: #161B22;
     width: 100px;
     height: 50px;
