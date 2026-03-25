@@ -73,7 +73,7 @@ a:active {
     border-radius: 15px;
 }
 
-.btn-theme {
+.btn-theme:hover {
     position: relative;
     background-color: #12121a;
     transition: 0.3s;
