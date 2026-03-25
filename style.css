@@ -67,9 +67,13 @@ a:active {
 
 .btn-new:hover {
     position: relative;
-    background-color: #006aff;
+    background-color: #12121a;
     transition: 0.3s;
+    height: 19px;
+    border-radius: 15px;
 }
+
+
 
 .vanya {
     position: relative;
