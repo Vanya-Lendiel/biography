@@ -65,8 +65,10 @@ a:active {
     left: 80px;
 }
 
-.btn-new {
-    
+.btn-new:hover {
+    position: relative;
+    background-color: #006aff;
+    transition: 0.3s;
 }
 
 .vanya {
