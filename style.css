@@ -96,6 +96,7 @@ a:active {
     transition: 0.3s;
     height: 19px;
     border-radius: 15px;
+    opacity: 60%;
 }
 
 .vanya {
