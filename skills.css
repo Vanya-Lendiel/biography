@@ -153,3 +153,21 @@ a:active {
     height: 50px;
     border-radius: 15px;
 }
+
+.btn-new:active {
+    position: relative;
+    background-color: #12121a;
+    transition: 0.3s;
+    height: 19px;
+    border-radius: 15px;
+    opacity: 60%;
+}
+
+.btn-more:active {
+    position: relative;
+    background-color: #12121a;
+    transition: 0.3s;
+    height: 19px;
+    border-radius: 15px;
+    opacity: 60%;
+}
